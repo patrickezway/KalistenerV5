@@ -1,0 +1,10 @@
+MKA_BarreTache = 162, 341, 930, 988, C
+MKA_Alerte = 174, 272, 942, 919, C
+KA_Alerte = 8, 40, 1044, 510, Z, 29, 25, 890, 510, C
+KA_PrmAlerte = -117, 150, 919, 678, C, 19, 241, 905, 888, C
+Modbc = 0, 0, 801, 647, C
+MCommon = 44, 58, 956, 547, C
+MKA_KaliAlerte = 44, 58, 845, 705, C
+MRegistre = 44, 58, 894, 705, C
+MSaisie = 0, 0, 0, 0, C
+KS_Saisie = -197, 204, 818, 683, C, 198, 261, 1048, 908, C

@@ -1,0 +1,17 @@
+--
+-- PostgreSQL database dump
+--
+
+\connect - postgres
+
+SET search_path = public, pg_catalog;
+
+--
+-- TOC entry 3 (OID 894037)
+-- Name: utilisateur_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY utilisateur
+    ADD COLUMN u_kb_actif boolean;
+
+UPDATE utilisateur SET u_kb_actif='t';

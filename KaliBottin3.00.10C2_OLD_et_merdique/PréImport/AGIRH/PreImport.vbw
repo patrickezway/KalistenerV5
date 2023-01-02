@@ -1,0 +1,7 @@
+AnalyseFichier = 0, 0, 0, 0, C, 50, 50, 492, 516, C
+Modbc = 0, 0, 0, 0, C
+MCommon = 50, 50, 1086, 614, 
+Module1 = 25, 25, 872, 389, 
+HttpIO = 75, 75, 899, 631, 
+Wininet = 0, 0, 0, 0, C
+File = 0, 0, 0, 0, C
